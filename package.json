@@ -1,13 +1,13 @@
 {
-  "name": "turborepo-web3-starter-kit",
+  "name": "gamma",
   "version": "0.0.0",
   "private": true,
-  "author": "memoriaXII",
+  "author": "heliaczk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/memoriaXII/turborepo-web3-starter-kit/issues"
+    "url": "https://github.com/heliaczk/gamma/issues"
   },
-  "homepage": "https://github.com/memoriaXII/turborepo-web3-starter-kit#readme",
+  "homepage": "https://github.com/heliaczk/gamma#readme",
   "keywords": [
     "react",
     "typescript",
